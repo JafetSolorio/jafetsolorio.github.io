@@ -149,9 +149,10 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Cursive;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+
 
 .navbar a:focus {
     outline: 0;
